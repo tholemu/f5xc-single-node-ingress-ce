@@ -1,6 +1,6 @@
 variable "aws_access_key" {
     type = string
-    default = "YOUR_ACCESS_KEY"
+    default = "YOUR_AWS_KEY"
   
 }
 
